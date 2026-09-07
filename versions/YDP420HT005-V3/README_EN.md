@@ -17,6 +17,7 @@
 
 - [Overview](#overview)
 - [Specifications](#specifications)
+- [Sample projects](#sample-projects)
 - [Repository layout](#repository-layout)
 - [Resources](#resources)
 - [Buy](#buy)
@@ -43,7 +44,13 @@ Current module version: **YDP420HT005-V3**. Outline and FPC definition follow [`
 | Driver IC | ST7306 |
 | Touch driver | FT3269 |
 
-> Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet. This part number currently has an outline drawing only.
+> Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
+
+## Sample projects
+
+| Description | Path |
+| ---- | ---- |
+| ESP32-S3 · ST7306 SPI bring-up (optional FT3269 touch draw-dot) | [`examples/esp32s3-4.2-tft-300x400-spi-st7306-bringup/`](./examples/esp32s3-4.2-tft-300x400-spi-st7306-bringup/) |
 
 ## Repository layout
 
@@ -54,7 +61,8 @@ Current module version: **YDP420HT005-V3**. Outline and FPC definition follow [`
         ├── README.md
         ├── README_EN.md
         ├── images/
-        └── docs/
+        ├── docs/
+        └── examples/
 ```
 
 ## Resources
@@ -65,6 +73,11 @@ Current module version: **YDP420HT005-V3**. Outline and FPC definition follow [`
 | ---- | ---- |
 | Outline drawing (YDP420HT005-V3) | [`docs/YDP420HT005-V3_外形图.pdf`](./docs/YDP420HT005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
 | Driver IC datasheet (ST7306) | [`docs/ST_7306_V0_1_c30c3541a3.pdf`](./docs/ST_7306_V0_1_c30c3541a3.pdf) |
+| 2.9 / 4.2″ TP combo adapter board schematic | [`docs/SCH_2.9&4.2TP二合一转接板.pdf`](./docs/SCH_2.9%264.2TP%E4%BA%8C%E5%90%88%E4%B8%80%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+
+### Samples
+
+- [ESP32-S3 ST7306 SPI bring-up](./examples/esp32s3-4.2-tft-300x400-spi-st7306-bringup/) |
 
 ## Buy
 

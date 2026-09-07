@@ -63,7 +63,7 @@ Full product page, datasheets, and examples: [versions/YDP420H005-V3/](./version
 
 ## YDP420HT005-V3
 
-**Notes:** 21-pin FPC, with touch (FT3269). Outline drawing only for now.
+**Notes:** 21-pin FPC, with touch (FT3269).
 
 Full product page, datasheets, and examples: [versions/YDP420HT005-V3/](./versions/YDP420HT005-V3/)
 
