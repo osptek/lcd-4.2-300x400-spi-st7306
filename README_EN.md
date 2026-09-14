@@ -31,7 +31,7 @@ This repository holds materials for the **4.2″ 300×400 LCD (SPI · ST7306)** 
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `4.2-lcd-300x400-spi-st7306`
+Repo id: `lcd-4.2-300x400-spi-st7306`
 
 ---
 

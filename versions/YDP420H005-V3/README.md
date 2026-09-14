@@ -28,7 +28,7 @@
 
 OSPTEK **4.2 寸 300×400 LCD** 是一款 **SPI** 接口显示模组，驱动为 **ST7306**。
 
-规格标识（仓库名）：`4.2-lcd-300x400-spi-st7306`
+规格标识（仓库名）：`lcd-4.2-300x400-spi-st7306`
 
 当前模组版本：**YDP420H005-V3**。外形以 [`docs/YDP420H005-V3_外形图.pdf`](./docs/YDP420H005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) / [`docs/YDP420H005-V3.dwg`](./docs/YDP420H005-V3.dwg) 为准。
 
@@ -47,7 +47,7 @@ OSPTEK **4.2 寸 300×400 LCD** 是一款 **SPI** 接口显示模组，驱动为
 ## 仓库结构
 
 ```text
-4.2-lcd-300x400-spi-st7306/             # 仓库根（导航见 ../../README.md）
+lcd-4.2-300x400-spi-st7306/             # 仓库根（导航见 ../../README.md）
 └── versions/
     └── YDP420H005-V3/                  # 本料号完整资料
         ├── README.md

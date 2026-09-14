@@ -28,7 +28,7 @@
 
 OSPTEK **4.2″ 300×400 LCD** is a **SPI** display module driven by **ST7306**.
 
-Spec ID (repository name): `4.2-lcd-300x400-spi-st7306`
+Spec ID (repository name): `lcd-4.2-300x400-spi-st7306`
 
 Current module version: **YDP420H005-V3**. Mechanical outline follows [`docs/YDP420H005-V3_外形图.pdf`](./docs/YDP420H005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) / [`docs/YDP420H005-V3.dwg`](./docs/YDP420H005-V3.dwg).
 
@@ -47,7 +47,7 @@ Current module version: **YDP420H005-V3**. Mechanical outline follows [`docs/YDP
 ## Repository layout
 
 ```text
-4.2-lcd-300x400-spi-st7306/             # repo root (nav: ../../README_EN.md)
+lcd-4.2-300x400-spi-st7306/             # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP420H005-V3/                  # full materials for this part number
         ├── README.md

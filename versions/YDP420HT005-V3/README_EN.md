@@ -29,7 +29,7 @@
 
 OSPTEK **4.2″ 300×400 three-color reflective LCD** is a **SPI** black / white / red display module driven by **ST7306**, with touch controller **FT3269**. Suited to low-power meters, labels, and outdoor-readable HMI.
 
-Spec ID (repository name): `4.2-lcd-300x400-spi-st7306`
+Spec ID (repository name): `lcd-4.2-300x400-spi-st7306`
 
 Current module version: **YDP420HT005-V3**. Outline and FPC definition follow [`docs/YDP420HT005-V3_外形图.pdf`](./docs/YDP420HT005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf).
 
@@ -55,7 +55,7 @@ Current module version: **YDP420HT005-V3**. Outline and FPC definition follow [`
 ## Repository layout
 
 ```text
-4.2-lcd-300x400-spi-st7306/             # repo root (nav: ../../README_EN.md)
+lcd-4.2-300x400-spi-st7306/             # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP420HT005-V3/                  # full materials for this part number
         ├── README.md
