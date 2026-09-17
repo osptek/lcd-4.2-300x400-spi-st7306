@@ -1,0 +1,22 @@
+id: lcd-4.2-300x400-spi-st7306
+category: displays
+
+size: "4.2"
+panel: lcd
+resolution: 300x400
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP420H003-V3
+    driver: ST7306
+    touch: none
+    note: none
+  - id: YDP420H005-V3
+    driver: ST7306
+    touch: none
+    note: Outline drawing and CAD only for now
+  - id: YDP420HT005-V3
+    driver: ST7306
+    touch: FT3269
+    note: 21-pin FPC
