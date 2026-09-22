@@ -15,7 +15,7 @@ versions:
   - id: YDP420H005-V3
     driver: ST7306
     touch: none
-    note: Outline drawing and CAD only for now
+    note: none
   - id: YDP420HT005-V3
     driver: ST7306
     touch: FT3269

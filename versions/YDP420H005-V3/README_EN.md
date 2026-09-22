@@ -30,7 +30,7 @@ OSPTEK **4.2″ 300×400 LCD** is a **SPI** display module driven by **ST7306**.
 
 Spec ID (repository name): `lcd-4.2-300x400-spi-st7306`
 
-Current module version: **YDP420H005-V3**. Mechanical outline follows [`docs/YDP420H005-V3_外形图.pdf`](./docs/YDP420H005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) / [`docs/YDP420H005-V3.dwg`](./docs/YDP420H005-V3.dwg).
+Current module version: **YDP420H005-V3**. Electrical and mechanical details follow [`docs/YDP420H005-V3.pdf`](./docs/YDP420H005-V3.pdf).
 
 ## Specifications
 
@@ -42,7 +42,7 @@ Current module version: **YDP420H005-V3**. Mechanical outline follows [`docs/YDP
 | Interface | SPI |
 | Driver IC | ST7306 |
 
-> Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet. This part number currently has outline and CAD only.
+> Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 
 ## Repository layout
 
@@ -62,6 +62,7 @@ lcd-4.2-300x400-spi-st7306/             # repo root (nav: ../../README_EN.md)
 
 | Resource | Link |
 | ---- | ---- |
+| Product datasheet (YDP420H005-V3) | [`docs/YDP420H005-V3.pdf`](./docs/YDP420H005-V3.pdf) |
 | Outline drawing (YDP420H005-V3) | [`docs/YDP420H005-V3_外形图.pdf`](./docs/YDP420H005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
 | 3D drawing (YDP420H005-V3) | [`docs/YDP420H005-V3.dwg`](./docs/YDP420H005-V3.dwg) |
 
