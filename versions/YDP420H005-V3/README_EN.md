@@ -13,6 +13,8 @@
   <img alt="Driver: ST7306" src="https://img.shields.io/badge/Driver-ST7306-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 4.2 inch 300×400 LCD SPI module (ST7306) product image" src="./images/product.png" width="640" /></p>
+
 ## Contents
 
 - [Overview](#overview)

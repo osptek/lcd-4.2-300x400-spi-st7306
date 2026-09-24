@@ -40,8 +40,8 @@
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
 | YDP420H003-V3 | <img alt="YDP420H003-V3" src="./versions/YDP420H003-V3/images/product.png" width="120" /> | [简介](#ydp420h003-v3) | [完整资料](./versions/YDP420H003-V3/) |
-| YDP420H005-V3 | | [简介](#ydp420h005-v3) | [完整资料](./versions/YDP420H005-V3/) |
-| YDP420HT005-V3 | | [简介](#ydp420ht005-v3) | [完整资料](./versions/YDP420HT005-V3/) |
+| YDP420H005-V3 | <img alt="YDP420H005-V3" src="./versions/YDP420H005-V3/images/product.png" width="120" /> | [简介](#ydp420h005-v3) | [完整资料](./versions/YDP420H005-V3/) |
+| YDP420HT005-V3 | <img alt="YDP420HT005-V3" src="./versions/YDP420HT005-V3/images/product.png" width="120" /> | [简介](#ydp420ht005-v3) | [完整资料](./versions/YDP420HT005-V3/) |
 
 ---
 
@@ -55,13 +55,17 @@
 
 ## YDP420H005-V3
 
-**说明：** 目前仅入库外形图与 CAD。
+<p align="center"><img alt="YDP420H005-V3" src="./versions/YDP420H005-V3/images/product.png" width="320" /></p>
+
+**说明：** 无触摸版本。
 
 完整产品页、规格书与示例：[versions/YDP420H005-V3/](./versions/YDP420H005-V3/)
 
 ---
 
 ## YDP420HT005-V3
+
+<p align="center"><img alt="YDP420HT005-V3" src="./versions/YDP420HT005-V3/images/product.png" width="320" /></p>
 
 **说明：** FPC 为 21 Pin，带触摸（FT3269）。
 

@@ -13,6 +13,8 @@
   <img alt="Driver: ST7306" src="https://img.shields.io/badge/Driver-ST7306-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 4.2 寸 300×400 三色全反射 LCD SPI 模组（ST7306）宣传图" src="./images/product.png" width="640" /></p>
+
 ## 目录
 
 - [产品简介](#产品简介)
