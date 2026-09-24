@@ -20,6 +20,7 @@
 - [YDP420H003-V3](#ydp420h003-v3)
 - [YDP420H005-V3](#ydp420h005-v3)
 - [YDP420HT005-V3](#ydp420ht005-v3)
+- [YDP420H002-V3](#ydp420h002-v3)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -39,6 +40,7 @@ Repo id: `lcd-4.2-300x400-spi-st7306`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
+| YDP420H002-V3 | — | [Summary](#ydp420h002-v3) | [Full docs](./versions/YDP420H002-V3/) |
 | YDP420H003-V3 | <img alt="YDP420H003-V3" src="./versions/YDP420H003-V3/images/product.png" width="120" /> | [Summary](#ydp420h003-v3) | [Full docs](./versions/YDP420H003-V3/) |
 | YDP420H005-V3 | <img alt="YDP420H005-V3" src="./versions/YDP420H005-V3/images/product.png" width="120" /> | [Summary](#ydp420h005-v3) | [Full docs](./versions/YDP420H005-V3/) |
 | YDP420HT005-V3 | <img alt="YDP420HT005-V3" src="./versions/YDP420HT005-V3/images/product.png" width="120" /> | [Summary](#ydp420ht005-v3) | [Full docs](./versions/YDP420HT005-V3/) |
@@ -70,6 +72,14 @@ Full product page, datasheets, and examples: [versions/YDP420H005-V3/](./version
 **Notes:** 21-pin FPC, with touch (FT3269).
 
 Full product page, datasheets, and examples: [versions/YDP420HT005-V3/](./versions/YDP420HT005-V3/)
+
+---
+
+## YDP420H002-V3
+
+**Notes:** 4-line SPI, no touch.
+
+Full product page, datasheets, and examples: [versions/YDP420H002-V3/](./versions/YDP420H002-V3/)
 
 ---
 

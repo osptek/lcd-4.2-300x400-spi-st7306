@@ -20,3 +20,7 @@ versions:
     driver: ST7306
     touch: FT3269
     note: 21-pin FPC
+  - id: YDP420H002-V3
+    driver: ST7306
+    touch: none
+    note: 4-line SPI, no touch

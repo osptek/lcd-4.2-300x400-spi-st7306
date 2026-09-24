@@ -20,6 +20,7 @@
 - [YDP420H003-V3](#ydp420h003-v3)
 - [YDP420H005-V3](#ydp420h005-v3)
 - [YDP420HT005-V3](#ydp420ht005-v3)
+- [YDP420H002-V3](#ydp420h002-v3)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -39,6 +40,7 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
+| YDP420H002-V3 | — | [简介](#ydp420h002-v3) | [完整资料](./versions/YDP420H002-V3/) |
 | YDP420H003-V3 | <img alt="YDP420H003-V3" src="./versions/YDP420H003-V3/images/product.png" width="120" /> | [简介](#ydp420h003-v3) | [完整资料](./versions/YDP420H003-V3/) |
 | YDP420H005-V3 | <img alt="YDP420H005-V3" src="./versions/YDP420H005-V3/images/product.png" width="120" /> | [简介](#ydp420h005-v3) | [完整资料](./versions/YDP420H005-V3/) |
 | YDP420HT005-V3 | <img alt="YDP420HT005-V3" src="./versions/YDP420HT005-V3/images/product.png" width="120" /> | [简介](#ydp420ht005-v3) | [完整资料](./versions/YDP420HT005-V3/) |
@@ -70,6 +72,14 @@
 **说明：** FPC 为 21 Pin，带触摸（FT3269）。
 
 完整产品页、规格书与示例：[versions/YDP420HT005-V3/](./versions/YDP420HT005-V3/)
+
+---
+
+## YDP420H002-V3
+
+**说明：** 4-line SPI，无触摸。
+
+完整产品页、规格书与示例：[versions/YDP420H002-V3/](./versions/YDP420H002-V3/)
 
 ---
 
